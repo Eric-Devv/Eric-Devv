@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 💫 About Me:
 HI am Eric.Dev.<br>I am a web developer, system developer, Graphics designer and a UI&UX designer.<br>
 ## 🌐 Socials:
