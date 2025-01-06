@@ -1,5 +1,5 @@
 # 💫 About Me:
-ICT enthusiast skilled in:<br>1. coding,<br>2. Graphics design ,<br>3. UI&UX design .<br>And also Passionate about solving problems and exploring new technologies.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=21&duration=4900&pause=1000&width=435&lines=Hey+Tech+Genius...;I+am+Eric-Devv...;I+am+a+Tech+Enthusiast+skilled+in+Coding%2C;+Graphics+Design+%26+UI%26UX+Design.;And+also+Passionate+about%2C;+solving+problems%2C;and+exploring+new+technologies...)](https://git.io/typing-svg)
 
 
 # 💻 Tech Stack:
